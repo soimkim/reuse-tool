@@ -7,7 +7,7 @@ boolean.py==3.8
 Jinja2==2.11.2
 license-expression==1.2
 python-debian==0.1.38
-requests==2.25.1
+requests==2.31.0
 
 setuptools==51.0.0
 setuptools-scm==5.0.1
