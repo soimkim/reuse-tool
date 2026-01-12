@@ -11,3 +11,4 @@ requests==2.25.1
 
 setuptools==51.0.0
 setuptools-scm==5.0.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
